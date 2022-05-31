@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{A1BB2A2A-E142-495E-AD76-529FD42329C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cars.API", "Cars.API\Cars.API.csproj", "{90D143ED-D43E-4A95-9ADF-13A68C3DB166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1BB2A2A-E142-495E-AD76-529FD42329C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BB2A2A-E142-495E-AD76-529FD42329C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BB2A2A-E142-495E-AD76-529FD42329C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BB2A2A-E142-495E-AD76-529FD42329C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D143ED-D43E-4A95-9ADF-13A68C3DB166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D143ED-D43E-4A95-9ADF-13A68C3DB166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D143ED-D43E-4A95-9ADF-13A68C3DB166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D143ED-D43E-4A95-9ADF-13A68C3DB166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B617FA0-724F-4762-B47F-578C1C2F090F}
+	EndGlobalSection
+EndGlobal
